@@ -3,7 +3,6 @@
 > My complete journey through TryHackMe Pre-Security | Top 9% Worldwide
 
 ## 🗺️ Full Roadmap - 100% Completed
-![Roadmap](./roadmap.png)
 
 ## 🗂️ Modules
 
