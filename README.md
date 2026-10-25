@@ -1,6 +1,6 @@
 # TryHackMe Writeups - AdhamH | Top 9%
 
-[![TryHackMe]https://img.shields.io/badge/TryHackMe-AdhamH-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/AdhamH(https://tryhackme.com/p/AdhamH)
+[![TryHackMe](https://tryhackme.com/p/AdhamH(https://tryhackme.com/p/AdhamH)
 **Profile:** [tryhackme.com/p/AdhamH](https://tryhackme.com/p/AdhamH) | **GitHub:** [4dham](https://github.com/4dham) | **Rank:** Top 9% Worldwide
 
 This repo documents my TryHackMe journey, methodology, tools and key learnings. No flags / No spoilers - Just learning.
