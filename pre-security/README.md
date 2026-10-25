@@ -34,8 +34,11 @@
 ## 🧠 Key Skills Learned
 `Linux` `Windows` `Networking` `OSI` `HTTP` `DNS` `Nmap` `PrivEsc Basics`
 
-## 📜 Certification
-![certificate](./certificate.png)
+## 📜 Certificate - Pre Security Completed
+
+![Certificate](https://github.com/4dham/tryhackme-writeups/blob/main/THM-ZZZ80T0PWD.pdf)
+
+**[📄 Click to View Full Certificate (PDF)](./THM-ZZZ80T0PWD.pdf)**
 
 > **AdhamH - Top 9% Worldwide - Pre-Security Completed**
 > Certificate of Completion - Cyber Security Training
