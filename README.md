@@ -1,6 +1,4 @@
-# TryHackMe Writeups - AdhamH | Top 9%
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_9%25-CC0000?style=for-the-badge)](https://tryhackme.com/p/AdhamH)
+# TryHackMe(https://tryhackme.com/p/AdhamH)
 
 **Profile:** [tryhackme.com/p/AdhamH](https://tryhackme.com/p/AdhamH) | **GitHub:** [4dham](https://github.com/4dham) | **Rank:** Top 9% Worldwide
 
