@@ -34,8 +34,8 @@
 ## 🧠 Key Skills Learned
 `Linux` `Windows` `Networking` `OSI` `HTTP` `DNS` `Nmap` `PrivEsc Basics`
 
-## 📜 Certificate Badge
-![Badge](./badge.png)
+## 📜 Certification
+![certificate](./certificate.png)
 
 > **AdhamH - Top 9% Worldwide - Pre-Security Completed**
 > Certificate of Completion - Cyber Security Training
