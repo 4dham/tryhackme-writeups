@@ -36,7 +36,7 @@
 
 ## 📜 Certificate - Pre Security Completed
 
-![Certificate](https://github.com/4dham/tryhackme-writeups/blob/main/THM-ZZZ80T0PWD.pdf)
+[Certificate](https://github.com/4dham/tryhackme-writeups/blob/main/THM-ZZZ80T0PWD.pdf)
 
 **[📄 Click to View Full Certificate (PDF)](./THM-ZZZ80T0PWD.pdf)**
 
