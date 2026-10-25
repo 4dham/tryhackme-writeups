@@ -1,4 +1,6 @@
-# TryHackMe(https://tryhackme.com/p/AdhamH)
+# TryHackMe Writeups - AdhamH | Top 9%
+
+[![TryHackMe](https://tryhackme.com/p/AdhamH)
 
 **Profile:** [tryhackme.com/p/AdhamH](https://tryhackme.com/p/AdhamH) | **GitHub:** [4dham](https://github.com/4dham) | **Rank:** Top 9% Worldwide
 
