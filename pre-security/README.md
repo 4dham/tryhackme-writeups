@@ -1,9 +1,6 @@
 # 🛡️ Pre-Security Path - Completed
 
 > My complete journey through TryHackMe Pre-Security | Top 9% Worldwide
-> **Profile:** [AdhamH](https://tryhackme.com/p/AdhamH)
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security_Completed-00C957?style=for-the-badge)
 
 ## 🗺️ Full Roadmap - 100% Completed
 ![Roadmap](./roadmap.png)
