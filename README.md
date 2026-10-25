@@ -1,6 +1,6 @@
 # TryHackMe Writeups - AdhamH | Top 9%
 
-**Profile:**[TryHackMe](https://tryhackme.com/p/AdhamH)  | **GitHub:** [4dham](https://github.com/4dham) | **Rank:** Top 9% Worldwide
+**Profile:** [TryHackMe](https://tryhackme.com/p/AdhamH)  | **GitHub:** [4dham](https://github.com/4dham) | **Rank:** Top 9% Worldwide
 
 This repo documents my TryHackMe journey, methodology, tools and key learnings. No flags / No spoilers - Just learning.
 
